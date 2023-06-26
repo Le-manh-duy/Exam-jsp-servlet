@@ -19,7 +19,6 @@
         <th>Department</th>
         <th>Birth Day</th>
         <th>Address</th>
-        <th>Actions</th>
     </tr>
     </thead>
 
